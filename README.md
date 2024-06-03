@@ -91,6 +91,7 @@ Contributions are welcome! Please follow these steps:
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![image](https://github.com/Amarnath-Rao/q12-dragon-booster/assets/96937608/9fb2827c-797a-41c4-beb7-963738de893c)
 
 
 ### Code:
